@@ -1,1 +1,1 @@
-# AICrafter
+# AICrafter blog posts
