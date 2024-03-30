@@ -1,0 +1,14 @@
+# Introduction
+
+In this presentation, Andrew Ng, the renowned computer scientist and founder of DeepLearning.AI and AI Fund, shares his insights on the exciting and rapidly evolving field of **agentic AI workflows**. As a pioneer in the development of neural networks and a visionary in the AI industry, Ng's perspective on this topic is particularly valuable.
+
+Ng begins by highlighting the key differences between **non-agentic** and **agentic** AI workflows. Traditional non-agentic workflows involve a single prompt-response interaction, where the AI model generates an answer without any iterative refinement or self-reflection. In contrast, agentic workflows involve a more iterative and self-aware process, where the AI agent engages in activities like outlining, researching, drafting, and revising, similar to how a human would approach a complex task.
+
+
+>Agentic workflows are designed to mimic the way humans tackle complex problems, leading to significantly better performance compared to traditional non-agentic approaches.
+
+To illustrate the power of agentic workflows, Ng shares a case study where a coding benchmark was analyzed using both zero-shot prompting and an agentic workflow. The results were impressive, with the agentic workflow outperforming even the latest GPT-4 model in terms of accuracy.
+
+This presentation aims to equip the audience, which includes LLM developers and software engineers, with a deep understanding of the key design patterns emerging in the field of agentic AI. Ng will delve into the specifics of [reflection](/introduction/reflection), [tool use](/introduction/tool-use), [planning](/introduction/planning), and [multi-agent collaboration](/introduction/multi-agent-collaboration), providing concrete examples and insights that can help accelerate the adoption and application of these powerful techniques.
+
+By the end of this session, attendees will have a clear understanding of the transformative potential of agentic AI workflows and how they can leverage these advancements to drive innovation and achieve significant productivity gains in their own work.
