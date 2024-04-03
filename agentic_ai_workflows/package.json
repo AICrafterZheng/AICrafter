@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "next": "^14.1.4",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.3"
+  },
+  "name": "ai-agentic-workflows",
+  "description": "Andrew Ng, founder of DeepLearning.AI and AI Fund, speaks at Sequoia Capital's AI Ascent about what's next for AI agentic workflows and their potential to significantly propel AI advancements—perhaps even surpassing the impact of the forthcoming generation of foundational models. ",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "AI agentic workflows"
+  ]
+}
